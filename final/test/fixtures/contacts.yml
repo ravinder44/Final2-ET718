@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event_name: MyString
+  guest_count: MyString
+  event_date: MyString
+  message: MyText
+
+two:
+  event_name: MyString
+  guest_count: MyString
+  event_date: MyString
+  message: MyText
